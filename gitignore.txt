@@ -1,0 +1,47 @@
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+
+# -------------------------
+# Python cache & artifacts
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# -------------------------
+# Virtual environment folders
+# -------------------------
+.env/
+.venv/
+env/
+venv/
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Logs / model files
+# -------------------------
+log/
+finetunedModel/
+
+# -------------------------
+# User datasets or large files
+# -------------------------
+Datasets/
+*.csv
+
+# -------------------------
+# Build / distribution folders (if you ever package the project)
+# -------------------------
+build/
+dist/
+*.egg-info/
