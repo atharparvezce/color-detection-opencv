@@ -115,11 +115,8 @@ OpenCV draws a green box around the detected area.
 
 ## 📸 Result
 
-Replace this placeholder with your actual image:
-
-``` md
 ![Result](result.png)
-```
+
 
 ------------------------------------------------------------------------
 
